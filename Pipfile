@@ -11,6 +11,7 @@ werkzeug = "==2.1.2"
 flask-bcrypt = "*"
 cryptography = "*"
 pyjwt = "*"
+flask-restx = "*"
 
 [dev-packages]
 
